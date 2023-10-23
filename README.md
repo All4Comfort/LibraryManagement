@@ -1,9 +1,12 @@
 # Fullgae Library
 <div text-align="center">
-  <img src="src\library\images\library_logo_transparent.png" width="300" height="200">
+  <img src="src\library\images\library_-_49375 (540p).gif">
 </div>
 
 # Library
+<div text-align="center">
+  <img src="src\library\images\library_logo_transparent.png" width="300" height="200">
+</div>
 <p>그린컴퓨터아카데미 풀스텍과정 2기 팀 풀개(풀스텍개발자)</p>
 <p>개발기간: 2023.07 ~ 2023. 07</p>
 
