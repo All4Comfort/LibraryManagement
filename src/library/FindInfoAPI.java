@@ -1,9 +1,8 @@
 package library;
 
-import javax.crypto.Mac;
-import javax.crypto.spec.SecretKeySpec;
-import javax.swing.*;
-import java.awt.*;
+import java.awt.GridBagConstraints;
+import java.awt.GridBagLayout;
+import java.awt.Insets;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.BufferedReader;
@@ -19,6 +18,15 @@ import java.util.Random;
 import java.util.Timer;
 import java.util.TimerTask;
 
+import javax.crypto.Mac;
+import javax.crypto.spec.SecretKeySpec;
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.JOptionPane;
+import javax.swing.JPanel;
+import javax.swing.JTextField;
+
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -26,9 +34,10 @@ import libraryDB.MemberDAO;
 import libraryDB.MemberDTO;
 
 public class FindInfoAPI extends JFrame {
-	private static final String SERVICE_ID = "ncp:sms:kr:311960526871:library";
-	private static final String ACCESS_KEY = "jaYrdd5vHxwOUx1XJYY4";
-	private static final String SECRET_KEY = "fMoATnrtlUomjvGsy2s3Be9Cg75KAKIbAENR8bfG";
+	//요금 부과 문제로 서버 ID와 키는 삭제함
+	private static final String SERVICE_ID = "SERVICE ID";
+	private static final String ACCESS_KEY = "ACCESS KEY";
+	private static final String SECRET_KEY = "SECRET KEY";
 
 	private JLabel phoneNumberLabel;
 	private JTextField phoneNumberField;

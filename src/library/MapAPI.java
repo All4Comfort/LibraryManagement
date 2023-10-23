@@ -1,15 +1,21 @@
 package library;
 
-import javax.imageio.ImageIO;
-import javax.swing.*;
-import java.awt.*;
+import java.awt.BorderLayout;
+import java.awt.Color;
+import java.awt.Graphics2D;
 import java.awt.image.BufferedImage;
 import java.io.IOException;
 import java.net.URL;
 
+import javax.imageio.ImageIO;
+import javax.swing.ImageIcon;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.SwingUtilities;
+
 public class MapAPI extends JFrame {
 
-	private static final String API_KEY = "AIzaSyAgY-kaBEtCUxeaAHQL2aLEi5xOjBfAhzw";
+	private static final String API_KEY = "키값(요금부과 문제로 삭제)";
 
 	public MapAPI() {
 		setTitle("도서관 위치");
