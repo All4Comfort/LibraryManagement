@@ -1,21 +1,19 @@
 package library;
 
-import java.awt.EventQueue;
+import java.awt.Color;
+import java.awt.Font;
 import java.awt.Image;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
 import javax.swing.ImageIcon;
+import javax.swing.JButton;
 import javax.swing.JFrame;
+import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
 
 import libraryDB.MemberDTO;
-
-import javax.swing.JLabel;
-import javax.swing.JButton;
-import java.awt.Color;
-import java.awt.event.ActionListener;
-import java.awt.event.ActionEvent;
-import java.awt.Font;
 
 public class ManagerMenu extends JFrame {
    
@@ -41,7 +39,7 @@ public class ManagerMenu extends JFrame {
    ImageIcon resizedImageIcon = new ImageIcon(resizedImage);
    
    public ManagerMenu(MemberDTO memberDTO)  {
-      setTitle("메뉴");
+      setTitle("관리자 메뉴");
       setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
       setBounds(100, 100, 383, 425);
       contentPane = new JPanel();

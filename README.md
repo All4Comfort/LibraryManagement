@@ -27,3 +27,7 @@
 <img src="https://img.shields.io/badge/mariadb-003545?style=flat-square&logo=mariadb&logoColor=white"/>
 </h2>
 
+# Java application 화면
+<table>
+  <tr></tr>
+</table>
