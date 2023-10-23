@@ -1,3 +1,3 @@
 # LibraryManagement
 
-<img src="src\library\images\logo_transparent2.png" width="300" height="250">
+<img src="src\library\images\library_logo_transparent.png" width="300" height="250">
