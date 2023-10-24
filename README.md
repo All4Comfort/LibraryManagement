@@ -11,7 +11,7 @@
   <p>기본 기능에 충실하여 회원관리와 도서 대출반납 관리가 가능한 프로그램을 완성했습니다.</p>
 </div>
 
-# Stack
+# Stacks
 <div align="center">
   <!--자바 로고-->
       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" height=20>
