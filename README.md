@@ -20,12 +20,16 @@
 
 ## Stacks
 <div align="center">
+  <h3>Front & Back</h3>
   <!--자바 로고-->
       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" height=20>
   <!--제이슨 로고-->
   <img src="https://img.shields.io/badge/json-000000?style=flat-square&logo=json&logoColor=white" height=20/>
   <!--마리아 DB 로고-->
   <img src="https://img.shields.io/badge/mariadb-003545?style=flat-square&logo=mariadb&logoColor=white" height=20/></br>
+</div>
+<div align="center">
+  <h3>Tool & SCM</h3>
   <!--이클립스 로고-->
   <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white" height=20/></br>
   <!--Git 로고-->
