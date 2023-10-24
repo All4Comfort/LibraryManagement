@@ -33,7 +33,7 @@
 <div align="center">
   <h3>풀개 도서관에 오신 여러분 환영합니다</h3>
   <img src="src\library\images\library_-_49375 (540p).gif" width=300 height=200>
-
+  </br>
   <table>
     <tr>
       <td>
