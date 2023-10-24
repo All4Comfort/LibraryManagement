@@ -1,4 +1,3 @@
-
 # 도서관 관리 프로그램
 <div text-align="center">
   <img src="src\library\images\library_logo_transparent.png" width="300" height="200">
@@ -25,7 +24,7 @@
 
 # 풀개 도서관에 오신 여러분 환영합니다
 <div text-align="center">
-  <img src="src\library\images\library_-_49375 (540p).gif" width=300 height=200>
+  <img src="src\library\images\library_-_49375 (540p).gif" width=300 height=200치>
 </div>
 
 # 화면
