@@ -1,16 +1,15 @@
 # 도서관 관리 프로그램
-<div align="center" text-align="left">
+<div align="center">
   <img src="src\library\images\library_logo_transparent.png" width="300" height="200">
-
 <p>그린컴퓨터아카데미 풀스텍과정 2기 팀 '풀개'(풀스텍개발자)</p>
 <p>개발 기간: 2023.07 ~ 2023. 07</p>
 </div>
 
-# 프로젝트 소개
-<h3>Java Swing을 활용하여 간단한 도서관 관리 프로그램을 제작했습니다.</h3>
-<p>기본 기능에 충실하여 회원관리와 도서 대출반납 관리가 가능한 프로그램을 완성했습니다.</p>
+## 프로젝트 소개
+<h4>Java Swing을 활용하여 간단한 도서관 관리 프로그램을 제작했습니다.</h4>
+<h4>기본 기능에 충실하여 회원관리와 도서 대출반납 관리가 가능한 프로그램을 완성했습니다.</h4>
 
-# Stack
+## Stack
 <h2>
 <!--이클립스 로고-->
 <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
@@ -24,12 +23,12 @@
 <img src="https://img.shields.io/badge/mariadb-003545?style=flat-square&logo=mariadb&logoColor=white"/>
 </h2>
 
-# 풀개 도서관에 오신 여러분 환영합니다
-<div text-align="center">
+## 풀개 도서관에 오신 여러분 환영합니다
+<div align="center">
   <img src="src\library\images\library_-_49375 (540p).gif" width=300 height=200>
 </div>
 
-# 화면
+## 화면 구성
 <table>
   <tr>
     <td>
