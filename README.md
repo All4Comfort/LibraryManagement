@@ -12,6 +12,7 @@
 </div>
 
 # Stack
+<div align="center">
 <h2>
 <!--자바 로고-->
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" height=20>
@@ -26,7 +27,8 @@
 <!--GitHub 로고-->
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" height=20/>
 </h2>
-
+</br>
+</div>
 
 ## 화면 구성
 
