@@ -44,7 +44,7 @@
   <b>
   <p>✔ PM으로서 프로젝트 전체에 대한 진행 관리 및 디버깅🛠</p>
   <p>✔ DB 설계</p>
-  <img src="src\library\captureImg\ERD.png" width="500">
+  <img src="src\library\captureImg\ERD.png">
   <!--ERD 이미지 넣을 것-->
 </div>
   </br>
